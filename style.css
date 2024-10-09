@@ -6,23 +6,21 @@ body{
 }
 
 #page{
-    padding: 150px;
-    margin: 100px 100px;
+    width: 20%;
+    padding: 150px 200px;
+    margin: 100px auto;
     background-color: rgba(0, 208, 255, 0.616);
     display: block;
     border-radius: 10%;
     border-style:solid;
     border-color: rgb(0, 119, 146);;
-}
-
-
-#titulo{
-    position: relative;
+    text-align: center;
 }
 
 #submit{
     color: black;
     background-color: rgb(214, 214, 214);
+    text-align: center;
 }
 
 #submit:hover{
