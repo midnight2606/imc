@@ -22,7 +22,7 @@ function calcular(event){
         peso = document.getElementById('peso').value;
         altura = document.getElementById('altura').value;
 
-        //calculo do imc   
+        //calculo do imc
         imc = peso/Math.pow(altura, altura);
 
         //testando a recepção dos valores de peso e altura
